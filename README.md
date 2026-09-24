@@ -13,6 +13,7 @@ The suite contains three coordinated Python programs:
 | `hea_direct_cli.py` | Direct property and criteria calculator for a user-defined composition | Forward problem | Terminal / CLI |
 | `hea_streamlit.py` | Interactive GUI version of the direct calculator | Forward problem | Streamlit |
 | `hea_inverse.py` | Monte Carlo inverse search for compositions satisfying all SS + BCC criteria | Inverse problem | Streamlit |
+| `hea_inverse_cli.py` | Monte Carlo inverse search — colored CLI + CSV export | Inverse problem | Terminal|
 
 This project is designed for **thermodynamic screening and alloy design**, not as a replacement for CALPHAD, full DFT, or experimental validation.
 
